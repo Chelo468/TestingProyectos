@@ -1,0 +1,7 @@
+D:\Chelo\Proyectos\Testing\Datos\bin\Debug\Datos.dll
+D:\Chelo\Proyectos\Testing\Datos\bin\Debug\Datos.pdb
+D:\Chelo\Proyectos\Testing\Datos\bin\Debug\Entidades.dll
+D:\Chelo\Proyectos\Testing\Datos\bin\Debug\Entidades.pdb
+D:\Chelo\Proyectos\Testing\Datos\obj\Debug\Datos.csprojResolveAssemblyReference.cache
+D:\Chelo\Proyectos\Testing\Datos\obj\Debug\Datos.dll
+D:\Chelo\Proyectos\Testing\Datos\obj\Debug\Datos.pdb
